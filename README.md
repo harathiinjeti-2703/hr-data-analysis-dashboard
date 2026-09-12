@@ -108,6 +108,8 @@ PowerBI-HR-Analysis-Dashboard/
 🖼️ Dashboard Preview
 
 Add your Power BI dashboard screenshot here:
+
+
 <img width="457" height="305" alt="hr analysis dashboard" src="https://github.com/user-attachments/assets/82d831b4-bd6d-45dd-9506-a039e9cb4332" />
 
 🚀 Conclusion
