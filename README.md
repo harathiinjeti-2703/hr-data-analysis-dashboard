@@ -108,8 +108,8 @@ PowerBI-HR-Analysis-Dashboard/
 🖼️ Dashboard Preview
 
 Add your Power BI dashboard screenshot here:
+<img width="457" height="305" alt="hr analysis dashboard" src="https://github.com/user-attachments/assets/82d831b4-bd6d-45dd-9506-a039e9cb4332" />
 
-![HR Analysis Dashboard](screenshots/HR_Dashboard.png)
 🚀 Conclusion
 
 This Power BI HR Analysis Dashboard demonstrates how raw HR data can be transformed into an interactive dashboard that helps organizations understand workforce trends and support HR decision-making.
